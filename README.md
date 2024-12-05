@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rifa-G
+- 👋 Hi, I’m Rifa
 - 👀 I’m interested in Computer Science and love learning about new use applications. 
 - 📫 Reach out to me via email rag9171@nyu[dot]edu
 - 😄 Pronouns: She/Her
