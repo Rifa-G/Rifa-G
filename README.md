@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rifa
 - 👀 I’m interested in Computer Science and love learning about new use applications. 
-- 📫 Reach out to me via email rag9171@nyu[dot]edu
+- 📫 Reach out to me via email rag9171@stern[dot]nyu[dot]edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a First-Generation American Pakistani
 
