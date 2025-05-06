@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Rifa
-- 👀 I’m interested in Computer Science and love learning about new use applications. 
+- 👋 Hi, I’m Rifa, prev. researcher @ Harvard
+- 👀 I’m interested in Blockchain Technology and love learning more about it!
+- ⚡ Current Microsoft blockchain dev team @ NYU Blockchain
 - 📫 Reach out to me via email rag9171@stern[dot]nyu[dot]edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a First-Generation American Pakistani
