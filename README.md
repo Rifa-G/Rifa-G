@@ -1,11 +1,35 @@
-- 👋 Hi, I’m Rifa, current SWE @ Manifold Labs, prev. researcher @ Harvard University
-- 👀 I’m interested in tech and love learning more about it!
-- ⚡ Microsoft NYU Blockchain & Fintech dev team
-- 📫 Reach out to me via email rag9171@stern[dot]nyu[dot]edu
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a First-Generation American Pakistani
+# Hi I am Rifa  
+**SWE Intern @ Manifold Labs**  
+Prev researcher @ Harvard University  
 
-<!---
-Rifa-G/Rifa-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+- Obsessed with tech and watching tech vids/research papers  
+- rag9171@stern.nyu.edu  
+- She Her  
+- Fun fact I grew up as a first gen Pakistani American  
+
+---
+
+## Highlights
+- Built Bittensor governance proto and won 10K grant  
+- LSTM ETF predictor published @ MIT URTC IEEE and presented  
+- Thermoelectric generator for wearables is patent pending  
+- AI segmentation for tumor grading in clinical settings  
+- Founded 501c(3) Illness Not Weakness to fight mental health stigma  
+
+---
+
+## Work
+- SWE Intern Manifold Labs  
+- Harvard researcher simulating cells in 3D  
+- Johns Hopkins intern won scholarship for computational brain research  
+- UNT computational biologist under NIH grant  
+- AAAS fellow since Jan 2024  
+
+---
+
+## Education
+- NYU CS + Math GPA 4.0  
+- UNT Texas Academy of Mathematics and Sciences HS diploma  
