@@ -1,4 +1,4 @@
-# Hi I am Rifa  
+# Hi I am Rifa :)
 **SWE Intern @ Manifold Labs**  
 Prev researcher @ Harvard University  
 
