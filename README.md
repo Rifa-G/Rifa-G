@@ -4,7 +4,7 @@ Prev researcher @ Harvard University
 
 ---
 
-## About Me
+## // About Me
 - Obsessed with tech and watching tech vids/research papers  
 - rag9171@stern.nyu.edu  
 - She Her  
@@ -12,7 +12,7 @@ Prev researcher @ Harvard University
 
 ---
 
-## Highlights
+## // Highlights
 - Built Bittensor governance proto and won 10K grant  
 - LSTM ETF predictor published @ MIT URTC IEEE and presented  
 - Thermoelectric generator for wearables is patent pending  
@@ -21,7 +21,7 @@ Prev researcher @ Harvard University
 
 ---
 
-## Work
+## // Work
 - SWE Intern Manifold Labs  
 - Harvard researcher simulating cells in 3D  
 - Johns Hopkins intern won scholarship for computational brain research  
@@ -30,6 +30,6 @@ Prev researcher @ Harvard University
 
 ---
 
-## Education
+## // Education
 - NYU CS + Math GPA 4.0  
 - UNT Texas Academy of Mathematics and Sciences HS diploma  
