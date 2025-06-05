@@ -4,7 +4,7 @@ Prev researcher @ Harvard University
 
 ---
 
-## // About Me
+## # About Me
 - Obsessed with tech and watching tech vids/research papers  
 - rag9171@stern.nyu.edu  
 - She Her  
