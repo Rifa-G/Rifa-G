@@ -1,4 +1,4 @@
-# hi I am Rifa :)
+# hi i'm rifa :)
 - SWE Intern @ Manifold Labs**  | prev researcher @ Harvard University  
 - obsessed with tech and watching tech vids/research papers  
 - rag9171@stern.nyu.edu  
