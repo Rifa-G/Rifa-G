@@ -1,22 +1,21 @@
-# Hi I am Rifa :)
-**SWE Intern @ Manifold Labs**  | Prev researcher @ Harvard University  
-- Obsessed with tech and watching tech vids/research papers  
+# hi I am Rifa :)
+- SWE Intern @ Manifold Labs**  | prev researcher @ Harvard University  
+- obsessed with tech and watching tech vids/research papers  
 - rag9171@stern.nyu.edu  
-- She Her  
-- Fun fact I grew up as a first gen Pakistani American  
+- fun fact I grew up as a first gen Pakistani American  
 
 ---
 
-## # Highlights
-- Built Bittensor governance proto and won 10K grant  
+## # some past things i've done
+- built Bittensor governance proto and won 10K grant  
 - LSTM ETF predictor published @ MIT URTC IEEE and presented  
-- Thermoelectric generator for wearables is patent pending  
+- thermoelectric generator for wearables is patent pending  
 - AI segmentation for tumor grading in clinical settings  
-- Founded 501c(3) Illness Not Weakness to fight mental health stigma  
+- founded 501c(3) Illness Not Weakness to fight mental health stigma  
 
 ---
 
-## # Work
+## # work
 - SWE Intern Manifold Labs  
 - Harvard researcher simulating cells in 3D  
 - Johns Hopkins intern won scholarship for computational brain research  
@@ -25,6 +24,6 @@
 
 ---
 
-## # Education
+## # education
 - NYU CS + Math GPA 4.0  
 - UNT Texas Academy of Mathematics and Sciences HS diploma  
