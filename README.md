@@ -2,7 +2,7 @@
 - currently student @ NYU CS + Math GPA 4.0 
 - SWE Intern @ Manifold Labs  | prev researcher @ Harvard University  
 - obsessed with tech and watching tech vids/research papers  
-- fun fact I grew up as a first gen Pakistani American
+- fun fact I grew up as a first- gen American Pakistani 
 - rag9171@stern.nyu.edu
 
 ---
