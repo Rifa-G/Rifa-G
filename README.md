@@ -9,7 +9,7 @@
 
 ## # some past things i've done
 - built Bittensor governance proto and won 10K grant  
-- LSTM ETF predictor published @ MIT URTC IEEE and presented  
+- LSTM ETF predictor published and presented paper @ MIT URTC IEEE  
 - thermoelectric generator for wearables is patent pending  
 - AI segmentation for tumor grading in clinical settings  
 - founded 501c(3) Illness Not Weakness to fight mental health stigma  
